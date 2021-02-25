@@ -1,6 +1,5 @@
  ###Hi there here is my profile 👋
 
-<!--
 **Hey I am a 16 years old learning Developer.
 
 Here are some ideas to get you started:

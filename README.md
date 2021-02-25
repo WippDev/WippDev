@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a discord bot in over 100 servers with 130k users 
 
 ◉ 2021 goal : getting my ap 1k + downloads 
+### sus
